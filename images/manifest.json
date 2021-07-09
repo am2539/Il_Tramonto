@@ -1,0 +1,66 @@
+{
+  "id" : "https://am2539.github.io/Il_Tramonto/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in am2539/Il_Tramonto project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 4960,
+    "id" : "https://am2539.github.io/Il_Tramonto/images/Dunkerton01/canvas/",
+    "label" : {
+      "none" : [ "Dunkerton01" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://am2539.github.io/Il_Tramonto/images/Dunkerton01/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://am2539.github.io/Il_Tramonto/images/Dunkerton01/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 155,
+              "height" : 220
+            }, {
+              "width" : 310,
+              "height" : 439
+            }, {
+              "width" : 620,
+              "height" : 877
+            }, {
+              "width" : 1240,
+              "height" : 1754
+            }, {
+              "width" : 2480,
+              "height" : 3508
+            }, {
+              "width" : 4960,
+              "height" : 7015
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 4960,
+            "@id" : "https://am2539.github.io/Il_Tramonto/images/Dunkerton01",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 7015
+          } ],
+          "format" : "image/jpeg",
+          "width" : 4960,
+          "id" : "https://am2539.github.io/Il_Tramonto/images/Dunkerton01/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 7015
+        },
+        "target" : "https://am2539.github.io/Il_Tramonto/images/Dunkerton01/canvas/"
+      } ]
+    } ],
+    "height" : 7015
+  } ]
+}
